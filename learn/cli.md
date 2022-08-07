@@ -9,7 +9,7 @@
   - [ ] [(2/4) Beginners BASH basics - learning the way of the shell](https://dev.to/hayden/2-4-beginners-bash-basics-learning-the-way-of-the-shell-3f7b)
   - [ ] [(3/4) Beginners BASH basics - Wait, BASH can do that?](https://dev.to/hayden/3-4-beginners-bash-basics-wait-bash-can-do-that-4oh9/)
   - [ ] [(4/4) Beginners BASH basics - The student becomes the master](https://dev.to/hayden/4-4-beginners-bash-basics-the-student-becomes-the-master-3h4m)
-- [] [Display notification from the Mac command line](https://code-maven.com/display-notification-from-the-mac-command-line)
+- [ ] [Display notification from the Mac command line](https://code-maven.com/display-notification-from-the-mac-command-line)
 
 ## Courses
 
