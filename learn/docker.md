@@ -15,8 +15,8 @@
 
 ## Courses
 
-- [Docker in Development Part I](https://serversforhackers.com/s/docker-in-dev-v2-i)
-- [Docker in Development Part II](https://serversforhackers.com/s/docker-in-dev-v2-ii)
+- [] [Docker in Development Part I](https://serversforhackers.com/s/docker-in-dev-v2-i)
+- [] [Docker in Development Part II](https://serversforhackers.com/s/docker-in-dev-v2-ii)
 
 ## Resources
 
