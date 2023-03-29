@@ -11,3 +11,4 @@
 - [tmux](learn/tmux.md)
 - [vim](learn/vim.md)
 - [git](learn/git.md)
+- [python](learn/python.md)
