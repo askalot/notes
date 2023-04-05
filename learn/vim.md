@@ -9,3 +9,7 @@
 ## Resources
 
 - https://github.com/amix/vimrc
+
+## Videos
+
+- [ ] [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/) - ThePrimeagen
