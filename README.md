@@ -12,4 +12,5 @@
 - [vim](learn/vim.md)
 - [git](learn/git.md)
 - [python](learn/python.md)
+- [django](learn/django.md)
 - [awk](learn/awk.md)
