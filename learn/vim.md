@@ -13,3 +13,4 @@
 ## Videos
 
 - [ ] [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/) - ThePrimeagen
+- [ ] [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s) - TJ DeVries
