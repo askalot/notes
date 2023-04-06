@@ -6,6 +6,7 @@
 - [ ] [A Quick and Easy Guide to tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) - Ham Vocke
 - [ ] [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) - Ham Vocke
 - [ ] [Remote Pair Programming Made Easy with SSH and tmux](https://www.hamvocke.com/blog/remote-pair-programming-with-tmux/) - Ham Vocke
+- [ ] [How to Make tmux's "Windows" Behave like Browser Tabs](https://www.seanh.cc/2020/12/30/how-to-make-tmux's-windows-behave-like-browser-tabs/) - Sean Hammond
 
 ## Courses
 
