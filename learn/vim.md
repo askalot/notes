@@ -8,7 +8,9 @@
 
 ## Courses
 
-- [ ] [Dive Into Neovim](https://thoughtbot.com/upcase/dive-into-neovim)
+- [ ] [Onramp to Vim](https://thoughtbot.com/upcase/onramp-to-vim)
+- [x] [Dive Into Neovim](https://thoughtbot.com/upcase/dive-into-neovim)
+- [ ] [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
 
 ## Resources
 
