@@ -6,6 +6,10 @@
 - [ ] [Wrapping Text In Vim](https://vim.works/2019/03/16/wrapping-text-in-vim/) - Kay (Vim.Works)
 - [ ] [the only 5 vim plugins i need](https://dev.to/hayden/the-only-5-vim-plugins-i-need-4b7h)
 
+## Courses
+
+- [ ] [Dive Into Neovim](https://thoughtbot.com/upcase/dive-into-neovim)
+
 ## Resources
 
 - https://github.com/amix/vimrc
