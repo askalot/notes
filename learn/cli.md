@@ -10,6 +10,7 @@
   - [ ] [(3/4) Beginners BASH basics - Wait, BASH can do that?](https://dev.to/hayden/3-4-beginners-bash-basics-wait-bash-can-do-that-4oh9/)
   - [ ] [(4/4) Beginners BASH basics - The student becomes the master](https://dev.to/hayden/4-4-beginners-bash-basics-the-student-becomes-the-master-3h4m)
 - [ ] [Display notification from the Mac command line](https://code-maven.com/display-notification-from-the-mac-command-line)
+- [x] [Fixing "sed: command i expects \ followed by text" error](https://singhkays.com/blog/sed-error-i-expects-followed-by-text/)
 
 ## Courses
 
