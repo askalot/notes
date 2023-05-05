@@ -7,6 +7,10 @@
 - [ ] [the only 5 vim plugins i need](https://dev.to/hayden/the-only-5-vim-plugins-i-need-4b7h)
 - [x] [Getting started with vim-airline](https://tuckerchapman.com/2020/09/15/getting-started-vim-airline/)
 
+## Books
+
+- [ ] [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh
+
 ## Courses
 
 - [ ] [Onramp to Vim](https://thoughtbot.com/upcase/onramp-to-vim)
