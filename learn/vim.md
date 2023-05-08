@@ -27,3 +27,5 @@
 
 - [ ] [VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/) - ThePrimeagen
 - [ ] [Effective Neovim: Instant IDE](https://www.youtube.com/watch?v=stqUbv-5u2s) - TJ DeVries
+- [ ] [Turn VIM into a full featured IDE with only one command](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
+- [ ] [How to Configure Neovim to make it Amazing -- complete tutorial](https://www.youtube.com/watch?v=J9yqSdvAKXY)
