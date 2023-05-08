@@ -24,3 +24,7 @@
 ## Resources
 
 - https://blog.sanctum.geek.nz/series/unix-as-ide/
+
+## Videos
+
+- [x] [What tools do I use every day as a software engineer?](https://www.youtube.com/watch?v=2Cq_prRzdX8) - Andrew Burgess
