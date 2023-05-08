@@ -4,3 +4,7 @@
 - [x] [Git – Diff Between Branches](https://www.shellhacks.com/git-diff-between-branches/)
 - [x] [Git – Diff Staged and Unstaged Files](https://www.shellhacks.com/git-diff-staged-unstaged-files/)
 - [x] [Git – Undo All Uncommitted Changes](https://www.shellhacks.com/git-undo-uncommitted-changes/)
+
+## Videos
+
+- [ ] [15 Lazygit Features In Under 15 Minutes](https://www.youtube.com/watch?v=CPLdltN7wgE)
