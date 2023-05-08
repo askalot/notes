@@ -28,3 +28,6 @@
 ## Videos
 
 - [x] [What tools do I use every day as a software engineer?](https://www.youtube.com/watch?v=2Cq_prRzdX8) - Andrew Burgess
+- [ ] [Write beautiful shell scripts with Gum! \[Terminal Velocity 4\]](https://www.youtube.com/watch?v=tnikefEuArQ)
+- [ ] [Painless prompt setup with Starship \[Terminal Velocity 3\]](https://www.youtube.com/watch?v=VgTu1_92U0U)
+- [ ] [Starship Prompt: Building Custom Modules](https://www.youtube.com/watch?v=xTJzJ-_vdag)
