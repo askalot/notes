@@ -31,3 +31,4 @@
 ## Videos
 
 - [x] [Make TMUX Look Amazing in 3 Minutes! - complete tutorial](https://www.youtube.com/watch?v=H70lULWJeig)
+- [x] [Tmux has forever changed the way I write code.](https://www.youtube.com/watch?v=DzNmUNvnB04)
