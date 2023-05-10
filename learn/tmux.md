@@ -22,3 +22,7 @@
 ## Resources
 
 - https://blog.sanctum.geek.nz/category/tmux/
+
+## Videos
+
+- [x] [Make TMUX Look Amazing in 3 Minutes! - complete tutorial](https://www.youtube.com/watch?v=H70lULWJeig)
