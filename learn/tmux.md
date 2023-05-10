@@ -9,6 +9,8 @@
 - [ ] [How to Make tmux's "Windows" Behave like Browser Tabs](https://www.seanh.cc/2020/12/30/how-to-make-tmux's-windows-behave-like-browser-tabs/) - Sean Hammond
 - [x] [Replicate My Tmux Setup in Less Than 5 Minutes](https://www.youtube.com/watch?v=78FjNkrPn5Y) - @bashbunni
 - [x] [Vi mode in tmux](https://blog.sanctum.geek.nz/vi-mode-in-tmux/)
+- [ ] [Binding Keys in tmux](https://www.seanh.cc/2020/12/28/binding-keys-in-tmux/)
+- [ ] [Setting Options in tmux](https://www.seanh.cc/2020/12/28/setting-options-in-tmux/)
 
 ## Courses
 
@@ -23,6 +25,8 @@
 ## Resources
 
 - https://blog.sanctum.geek.nz/category/tmux/
+- https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html
+- https://tmuxcheatsheet.com/
 
 ## Videos
 
