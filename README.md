@@ -10,6 +10,7 @@
 - [git](learn/git.md)
 - [go](learn/go.md)
 - [guitar](learn/guitar.md)
+- [java](learn/java.md)
 - [javascript](learn/javascript.md)
 - [music-production](learn/music-production.md)
 - [piano](learn/piano.md)
