@@ -11,6 +11,7 @@
 - [x] [Vi mode in tmux](https://blog.sanctum.geek.nz/vi-mode-in-tmux/)
 - [ ] [Binding Keys in tmux](https://www.seanh.cc/2020/12/28/binding-keys-in-tmux/)
 - [ ] [Setting Options in tmux](https://www.seanh.cc/2020/12/28/setting-options-in-tmux/)
+- [x] [The Definitive Guide to Customizing the Tmux Status Line](https://medium.com/hackernoon/customizing-tmux-b3d2a5050207)
 
 ## Courses
 
