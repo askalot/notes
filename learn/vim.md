@@ -9,6 +9,7 @@
 - [x] [How to Use the Vim \<leader\> Key](https://tuckerchapman.com/2018/06/16/how-to-use-the-vim-leader-key/)
 - [x] [Better linting in Vim with Ale](https://medium.com/@victormours/better-linting-in-vim-with-ale-1e4b1d5789af) - Victor Mours
 - [x] [Configure Vim Like a Pro](https://levelup.gitconnected.com/configure-vim-like-a-pro-16bff32ee)
+- [x] [Improving Vim Workflow With fzf](https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/)
 
 ## Books
 

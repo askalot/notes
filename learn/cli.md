@@ -11,6 +11,7 @@
   - [ ] [(4/4) Beginners BASH basics - The student becomes the master](https://dev.to/hayden/4-4-beginners-bash-basics-the-student-becomes-the-master-3h4m)
 - [ ] [Display notification from the Mac command line](https://code-maven.com/display-notification-from-the-mac-command-line)
 - [x] [Fixing "sed: command i expects \ followed by text" error](https://singhkays.com/blog/sed-error-i-expects-followed-by-text/)
+- [x] [4 Useful fzf Tricks for Your Terminal](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 
 ## Courses
 
