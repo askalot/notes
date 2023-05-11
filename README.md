@@ -2,6 +2,7 @@
 
 ## Learn
 
+- [a11y](learn/a11y.md)
 - [awk](learn/awk.md)
 - [command-line](learn/cli.md)
 - [crypto](learn/crypto.md)
