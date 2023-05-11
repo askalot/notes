@@ -23,6 +23,7 @@
 ## Resources
 
 - https://github.com/amix/vimrc
+- https://learnbyexample.github.io/vim_reference/
 
 ## Videos
 
