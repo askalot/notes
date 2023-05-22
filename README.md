@@ -18,6 +18,7 @@
 - [python](learn/python.md)
 - [rails](learn/rails.md)
 - [react](learn/react.md)
+- [ruby](learn/ruby.md)
 - [tmux](learn/tmux.md)
 - [vim](learn/vim.md)
 
