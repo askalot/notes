@@ -20,3 +20,7 @@
 - [react](learn/react.md)
 - [tmux](learn/tmux.md)
 - [vim](learn/vim.md)
+
+# Other
+
+- [interesting](learn/interesting.md)
