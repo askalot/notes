@@ -21,6 +21,7 @@
 - [ruby](learn/ruby.md)
 - [tmux](learn/tmux.md)
 - [vim](learn/vim.md)
+- [visual-studio-code](learn/visual-studio-code.md)
 
 # Other
 
