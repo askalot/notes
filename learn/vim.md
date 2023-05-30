@@ -11,6 +11,7 @@
 - [x] [Configure Vim Like a Pro](https://levelup.gitconnected.com/configure-vim-like-a-pro-16bff32ee)
 - [x] [Improving Vim Workflow With fzf](https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/)
 - [x] [Creating a new file or directory in Vim using NERDTree](https://sookocheff.com/post/vim/creating-a-new-file-or-directoryin-vim-using-nerdtree/)
+- [x] [A better NerdTree setup](https://medium.com/@victormours/a-better-nerdtree-setup-3d3921abc0b9)
 
 ## Books
 
