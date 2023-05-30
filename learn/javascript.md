@@ -15,3 +15,8 @@
     - [ ] [JavaScript Patterns Workshop Notes](https://javascriptpatterns.vercel.app/patterns)
 - [ ] [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) - Anjana Vakil
 - [ ] [Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/) - Anjana Vakil
+
+## Videos
+
+- [x] [The Differences between ES6 Maps and Sets](https://www.youtube.com/watch?v=m4abICrldQI)
+- [x] [ES6 Set Datatype](https://www.youtube.com/watch?v=o_mWL2KYZ5w)
