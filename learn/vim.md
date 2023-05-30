@@ -10,6 +10,7 @@
 - [x] [Better linting in Vim with Ale](https://medium.com/@victormours/better-linting-in-vim-with-ale-1e4b1d5789af) - Victor Mours
 - [x] [Configure Vim Like a Pro](https://levelup.gitconnected.com/configure-vim-like-a-pro-16bff32ee)
 - [x] [Improving Vim Workflow With fzf](https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/)
+- [x] [Creating a new file or directory in Vim using NERDTree](https://sookocheff.com/post/vim/creating-a-new-file-or-directoryin-vim-using-nerdtree/)
 
 ## Books
 
