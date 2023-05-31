@@ -3,6 +3,7 @@
 ## Learn
 
 - [a11y](learn/a11y.md)
+- [apple-pages](learn/apple-pages.md)
 - [awk](learn/awk.md)
 - [command-line](learn/cli.md)
 - [crypto](learn/crypto.md)
