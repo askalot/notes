@@ -27,3 +27,4 @@
 # Other
 
 - [interesting](learn/interesting.md)
+- [board-games](learn/board-games.md)
