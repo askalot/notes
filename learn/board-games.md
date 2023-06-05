@@ -4,6 +4,10 @@
 
 - https://boardgamearena.com/
 
+## Videos
+
+- [x][10 Board Game Recommendations! | If you like A, try B!](https://www.youtube.com/watch?v=VOJesonjuMc)
+
 ## Azul
 
 ### Play online
