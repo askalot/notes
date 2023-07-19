@@ -10,7 +10,6 @@
 - [x] [Simple cheat code for making music!](https://www.youtube.com/shorts/KQPWuduq29w)
 - [x] [Music makers: DON'T do this!](https://www.youtube.com/shorts/t1RSxqlmA5Q)
 - [x] [You wanna hear something crazy? (production technique for vocals)](https://www.youtube.com/shorts/3xXf0qXSyMg)
-- [x] [Music makers: DON'T do this!](https://www.youtube.com/shorts/t1RSxqlmA5Q)
 - [x] [How To Produce Like Pharrell (Late 90s / Early 2000s Nelly, Missy Elliott, The Neptunes)](https://www.youtube.com/watch?v=8Gc89Cqq8yc)
 - [x] [Stromae Alors on danse(making of)](https://www.youtube.com/watch?v=MGkWSAnoDOI)
 - [x] [10 Powerful Chord Progressions Every Songwriter Should Know](https://www.youtube.com/watch?v=eVteycbJUsw)
