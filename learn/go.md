@@ -1,3 +1,7 @@
+# Articles
+
+- [x] [Load a .env or environment file in Go (Golang)](https://golangbyexample.com/load-env-fiie-golang/)
+
 # Videos
 
 - [x] [Go for JavaScript Developers](https://frontendmasters.com/courses/go-for-js-devs/) - Brenna Martenson
