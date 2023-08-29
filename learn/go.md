@@ -2,7 +2,10 @@
 
 ## Articles
 
+- [x] [Makefiles with Go](https://golangdocs.com/makefiles-golang)
 - [x] [Load a .env or environment file in Go (Golang)](https://golangbyexample.com/load-env-fiie-golang/)
+- [x] [Building Applications in Golang](https://golangdocs.com/building-applications-in-golang)
+- [x] [Unit testing in Golang](https://golangdocs.com/unit-testing-in-golang)
 
 ## Videos
 
