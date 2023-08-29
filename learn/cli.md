@@ -2,6 +2,9 @@
 
 ## Articles
 
+- [x] [Using 'make' to Make Your Code Easy to Work With](https://www.hamvocke.com/blog/makefiles-for-accessibility/)
+- [x] [What is the purpose of .PHONY in a Makefile?](https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile/2145605#2145605)
+
 - [ ] [optimizing your workflow with fzf & ripgrep](https://dev.to/hayden/optimizing-your-workflow-with-fzf-ripgrep-2eai)
 - [ ] [Navigating a filesystem quickly with fzf and fd](https://mike.place/2017/fzf-fd/)
 - [ ] []()
