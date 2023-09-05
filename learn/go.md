@@ -1,6 +1,5 @@
 # Go
 
-- [ ] [Creating a JSON CRUD API in Go (Gin/GORM)](https://www.youtube.com/watch?v=lf_kiH_NPvM)
 - [ ] [CLI Kanban Board](https://www.youtube.com/playlist?list=PLLLtqOZfy0pcFoSIeGXO-SOaP9qLqd_H6) - Charm CLI
 - [ ] [Bubble Tea Tutorials](https://www.youtube.com/playlist?list=PLLLtqOZfy0pd1wu0E1kCMPqU7d6o3NAgD)
 - [ ] [Terminal Apps with Golang]
