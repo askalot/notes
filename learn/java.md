@@ -3,7 +3,7 @@
 ## Certification
 
 - [Java - Oracle](https://education.oracle.com/learning-explorer)
-- [Spring Boot]https://spring.academy/courses/building-a-rest-api-with-spring-boot/
+- [Spring Boot](https://spring.academy/courses/building-a-rest-api-with-spring-boot/)
 
 ## Other
 
