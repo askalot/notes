@@ -14,3 +14,5 @@
 
 - [ ] [Python Programming Beginner Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Corey Schafer
 - [ ] [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Corey Schafer
+- [ ] [How to Make a Website with Python (Flask app tutorial)](https://www.youtube.com/watch?v=qaBo_IiE4Gc)
+- [ ] [How to Deploy Flask with Gunicorn and Nginx (on Ubuntu)](https://www.youtube.com/watch?v=KWIIPKbdxD0)
