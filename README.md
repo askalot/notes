@@ -14,6 +14,7 @@
 - [guitar](learn/guitar.md)
 - [java](learn/java.md)
 - [javascript](learn/javascript.md)
+- [mongodb](learn/mongodb.md)
 - [music-production](learn/music-production.md)
 - [piano](learn/piano.md)
 - [python](learn/python.md)
